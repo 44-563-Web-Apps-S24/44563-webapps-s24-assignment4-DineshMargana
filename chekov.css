@@ -37,9 +37,8 @@ color: crimson;
   th {
     background-color: #4a3c0267;
   }
-
-  tr:nth-child(even) {
-    background-color: #51560f;
+  td {
+    background-color: bisque;
   }
 
     
