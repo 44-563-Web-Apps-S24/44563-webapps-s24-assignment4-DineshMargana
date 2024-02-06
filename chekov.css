@@ -25,4 +25,7 @@ color: crimson;
 }
 .table, th, td {
     border:1px solid black;
+    color: darkseagreen;
+    text-align: center;
+    
   }
