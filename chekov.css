@@ -28,13 +28,11 @@ color: crimson;
 }
 table {
     border-collapse: collapse;
-    width:100%;
+    width:50%;
     text-align: center;
 }
 td {
-    height: 100%;
-}
-tr {
+    height: 50%;
     background-color: rgb(red, green, blue) ;
 }
 th {
