@@ -24,7 +24,7 @@ color:blueviolet;
 color: crimson;
 }
 .table {
-    border-collapse: collapse;
+    border: 2px solid rgb(12, 12, 12) ;
     width: 100%;
   }
 
