@@ -24,8 +24,21 @@ color:blueviolet;
 color: crimson;
 }
 .table, th, td {
-    border:1px solid black;
-    color: rgb(5, 86, 5);
+    border:2px solid black;
+}
+table {
+    border-collapse: collapse;
+    width:100%;
     text-align: center;
+}
+td {
+    height: 100%;
+}
+tr {
+    background-color: rgb(red, green, blue) ;
+}
+th {
+    background-color: darkseagreen;
+}
+
     
-  }
