@@ -28,16 +28,16 @@ color: crimson;
     width: 100%;
   }
 
- .th, .td {
+  th, td {
     border: 1px solid #0b0a0a;
     padding: 8px;
     text-align: center;
   }
 
-  .th {
+  th {
     background-color: #4a3c0267;
   }
-  .td {
+  td {
     background-color: bisque;
   }
 
