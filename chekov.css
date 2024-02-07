@@ -24,12 +24,10 @@ color:blueviolet;
 color: crimson;
 }
 .table {
-    border-style: double;
-    border: 2px solid rgb(12, 12, 12) ;
     width: 100%;
   }
 
-  th, td {
+ table, th, td {
     border: 1px solid #0b0a0a;
     padding: 8px;
     text-align: center;
